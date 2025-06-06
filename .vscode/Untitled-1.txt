@@ -1,0 +1,1 @@
+export PATH=$PATH:/c/Users/DELL\ E7240/Downloads/mongosh-2.5.1-win32-x64/mongosh-2.5.1-win32-x64/bin
